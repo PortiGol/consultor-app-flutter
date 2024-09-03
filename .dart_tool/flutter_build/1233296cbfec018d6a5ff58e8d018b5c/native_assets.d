@@ -1,1 +1,0 @@
- C:\\Users\\deeli\\OneDrive\\Escritorio\\consultor-app-flutter-main\\consultor_app\\.dart_tool\\flutter_build\\1233296cbfec018d6a5ff58e8d018b5c\\native_assets.yaml: 
